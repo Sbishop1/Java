@@ -1,12 +1,3 @@
-/*
-FileName:   BasePlusCommissionEmployee.java
-Section:    CSIS 212  D03 Spring 2019
-Purpose:    calculate monthy pay for diffent types of employees
-Citations:  class adopted from:
-Deitel, P. J., & Deitel, H. M. (2014). Java how to program: Late objects. Boston, Mass.: Prentice Hall.
-*/
-
-
 
 public class BasePlusCommissionEmployee extends CommissionEmployee {
 
